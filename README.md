@@ -10,13 +10,8 @@ Ejercicios capítulos 7 y 8.
 ## 1.Objetivos
 ***Objetivo General***
 
-_Analizar los conceptos básicos del libro "análisis de circuitos" para la elaboracion de los ejercicios que se encuentran en los capitulos 5 y 6
 
 ***Objetivos Específicos***
-
-_Realizar los ejercicios correspondientes a los capitulo dados_
-
-_Resolver de manera eficiente cada uno de los ejercicios_
 
 
 ## 2.Marco Teórico
