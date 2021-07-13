@@ -318,3 +318,5 @@ _Al momento de desarrollar los ejercicios y proelmas propuestos del Cap 7 y Cap 
 ## 6.Bibliografía 
 
 _Picuino. (s. f.). Serie y paralelo - Electricidad y electrónica - Picuino. Picuino.com. Recuperado 13 de julio de 2021, de https://www.picuino.com/es/electric-serie-paralelo.html_
+
+_Métodos de análisis de circuitos. (2015, 29 julio). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/metodos-de-analisis-de-circuitos/_
