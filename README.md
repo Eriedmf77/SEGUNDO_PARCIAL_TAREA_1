@@ -262,7 +262,12 @@ _a. Escriba las ecuaciones de corriente de rama._
 ![image](https://user-images.githubusercontent.com/85259801/125494359-95a04c43-0447-4d97-af81-4745f1d6b062.png)
 
 _b. Encuentre las corrientes I2._
+
+![image](https://user-images.githubusercontent.com/85259801/125525568-48b8eee9-778d-44c5-99f8-4f6750dc9f4c.png)
+
 _c. Determine el voltaje Vab._
+
+![image](https://user-images.githubusercontent.com/85259801/125525589-3897978d-ad9a-4c58-b61a-d277dbb7ddf9.png)
 
 _25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo._
 
@@ -276,6 +281,11 @@ _29. Use el análisis de malla para encontrar las corrientes de lazo en el circu
 
 ![image](https://user-images.githubusercontent.com/85259801/125479780-04042dc0-f92d-4e26-ad73-d217e10812f5.png)
 
+![image](https://user-images.githubusercontent.com/85259801/125525444-071ea359-d820-4d66-8277-d24a5fc7b46f.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125525473-9d30fa8e-2232-4459-92dd-c682e41604ca.png)
+
+
 _31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes._
 
 ![image](https://user-images.githubusercontent.com/84418933/125394263-0df58000-e36f-11eb-882c-4f78f0a2b5a5.png)
@@ -283,6 +293,8 @@ _31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre la
 _35. Repita el problema 33 para el circuito 8-90._
 
 ![image](https://user-images.githubusercontent.com/85259801/125479857-17da120a-1126-4ecd-a246-7f09077fef85.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125525506-f9ad78d4-50da-4ffc-b08c-f102932299e4.png)
 
 _37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6_
 
