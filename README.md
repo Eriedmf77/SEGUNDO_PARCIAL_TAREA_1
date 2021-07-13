@@ -29,7 +29,11 @@ _1. Para las redes de la figura 7-46, determine cuáles resistores y ramas está
 ![image](https://user-images.githubusercontent.com/84418933/125391288-d33d1900-e369-11eb-960f-ae7095272636.png)
 ![image](https://user-images.githubusercontent.com/84418933/125391310-dcc68100-e369-11eb-9160-6062489de77a.png)
 
-_5. Las redes de resistores tienen una resistencia total que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión._
+_3. Escriba una expresion para RT1 y RT2 para las redes de la figura 7-48._
+
+![image](https://user-images.githubusercontent.com/85728185/125472911-1ee465dd-b107-443f-b5f8-9fb34ac54509.png)
+
+_5. Las redes de resistores tienen una resistencia total que se muestra a continuación. Dibuje un circuito que corresponde a cada expresión.
 
 _RT =(R1||R2||R3)+(R4||R5)_
 
@@ -43,23 +47,15 @@ _7. Determine la resistencia total para cada red de la figura 7-50._
 
 ![image](https://user-images.githubusercontent.com/84418933/125391396-10a1a680-e36a-11eb-86d6-0185615dc720.png)
 
+_9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52._
+
+![image](https://user-images.githubusercontent.com/85728185/125472980-3c09b581-4be5-4007-b794-ab55264aa276.png)
+
 _11. Vea el circuito de la figura 7-54._
 
 ![image](https://user-images.githubusercontent.com/85259801/125378545-9155a800-e354-11eb-9082-0846fc802b5f.png)
 
 _Encuentre las siguientes cantidades._
-
-_a. RT_
-
-![image](https://user-images.githubusercontent.com/85259801/125472872-c5e1655a-1008-484b-af0f-fdca834bbad7.png)
-
-_B . IT, I1, I2, I3, I4_
-
-![image](https://user-images.githubusercontent.com/85259801/125473017-e622622e-acfd-4e01-9932-f3d7184ce46c.png)
-
-![image](https://user-images.githubusercontent.com/85259801/125473057-a70d41b9-89f5-4f98-918f-d674aa6776b5.png)
-
-![image](https://user-images.githubusercontent.com/85259801/125473085-0ebfaaba-3687-4b29-a7a4-c4003290b915.png)![image](https://user-images.githubusercontent.com/85259801/125473120-a7cbfff9-69a4-497d-b717-63789220f08c.png)
 
 _13. Vea el circuito de la figura 7-56._
 
@@ -73,6 +69,13 @@ _c. Verifique que la potencia suministrada al circuito es igual a la suma de las
 
 ![image](https://user-images.githubusercontent.com/84418933/125391661-78f08800-e36a-11eb-8f26-8768168bf7e2.png)
 
+_15. Vea los circuitos de la figura 7-58:_
+
+_a. Encuentre las corrientes indicadas._
+
+_b. Encuentre el voltaje Vab._
+
+_c. Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.	_
 
 **7-3 APLICACIONES DE LOS CIRCUITOS EN SERIE-PARALELO**
 
@@ -84,6 +87,10 @@ _19. En el circuito de la figura 7-62 determine el intervalo de R (valores máxi
 
 ![image](https://user-images.githubusercontent.com/84418933/125391927-dbe21f00-e36a-11eb-83e7-96b8d5fe9e61.png)
 
+_21. En el circuito de la figura 7-64 determine VB, IC y VCE._
+
+![image](https://user-images.githubusercontent.com/85728185/125473371-43a32d6d-b4ec-4a91-a2ec-955ed898dad0.png)
+
 _23. Considere el circuito de la figura 7-65 y los valores indicados._
 
 ![image](https://user-images.githubusercontent.com/85259801/125378886-25277400-e355-11eb-85ef-957b25db275a.png)
@@ -91,6 +98,16 @@ _23. Considere el circuito de la figura 7-65 y los valores indicados._
 _25. Calcule Ic y Vce para el circuito de la figura 7-67._
 
 ![image](https://user-images.githubusercontent.com/84418933/125391986-fc11de00-e36a-11eb-84e6-34ac06e4a14a.png)
+
+_27. Vea el circuito de la figura 7-69:_
+
+_a. Determine el intervalo de voltajes que apareceran en RL a medida que el potenciometro varie entre sus valores minimo y maximo._
+
+![image](https://user-images.githubusercontent.com/85728185/125473519-45e6fe8e-c955-4582-98bb-94839ddaa695.png)
+
+_B. Si R2 se ajusta para tener 2.5 k_ .cual sera el voltaje VL? Si se remueve el resistor de carga .que voltaje aparecera entre las terminales ayb? _
+
+![image](https://user-images.githubusercontent.com/85728185/125473549-25cb9405-2521-4ea7-ac11-0e1b5d49bbcc.png)
 
 _29. Si el potenciómetro de la figura 7-70 se ajusta para que R2 = 200 ohm, determine los voltajes Vab y Vbc.
 
@@ -106,6 +123,7 @@ _b. Calcule R, cuando V =20 V._
 
 ![image](https://user-images.githubusercontent.com/84418933/125392366-a7bb2e00-e36b-11eb-828f-882bddc8b349.png)
 
+_33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL = 0, 250 y 500._
 
 **EFECTOS DE CARGA DE LOS INSTRUMENTOS**
 
