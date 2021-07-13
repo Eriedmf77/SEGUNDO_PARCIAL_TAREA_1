@@ -290,6 +290,10 @@ _31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre la
 
 ![image](https://user-images.githubusercontent.com/84418933/125394263-0df58000-e36f-11eb-882c-4f78f0a2b5a5.png)
 
+_33. Escriba las ecuaciones de nodos para el circuito de la figura 8-88 y encuentre los voltajes en los nodos._
+
+![image](https://user-images.githubusercontent.com/85728185/125529024-71349a32-00bf-4142-92e0-df1dba4e4cf6.png)
+
 _35. Repita el problema 33 para el circuito 8-90._
 
 ![image](https://user-images.githubusercontent.com/85259801/125479857-17da120a-1126-4ecd-a246-7f09077fef85.png)
