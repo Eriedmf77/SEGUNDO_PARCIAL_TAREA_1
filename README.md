@@ -51,7 +51,8 @@ _RT =(R1||R2||R3)+(R4||R5)_
 
 _b. RT=R1+(R2||R3)+[R4||(R5+R6)]_
 
-![image](https://user-images.githubusercontent.com/85259801/125472573-ca73376a-f85b-47a1-b4a1-cf2859aa5d6f.png)
+![image](https://user-images.githubusercontent.com/85259801/125487958-419e5b06-ae86-4cff-85c7-d147ce12ac41.png)
+
 
 _7. Determine la resistencia total para cada red de la figura 7-50._
 
