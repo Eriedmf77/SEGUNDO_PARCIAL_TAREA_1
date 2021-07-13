@@ -9,7 +9,7 @@ Ejercicios capítulos 7 y 8.
 
 ## 1.Objetivos
 ***Objetivo General***
-
+_Analizar los concepos e identificar circuitos en serie-paralelo_
 
 ***Objetivos Específicos***
 
