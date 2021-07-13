@@ -57,6 +57,18 @@ _11. Vea el circuito de la figura 7-54._
 
 _Encuentre las siguientes cantidades._
 
+_a. RT_
+
+![image](https://user-images.githubusercontent.com/85259801/125472872-c5e1655a-1008-484b-af0f-fdca834bbad7.png)
+
+_B . IT, I1, I2, I3, I4_
+
+![image](https://user-images.githubusercontent.com/85259801/125473017-e622622e-acfd-4e01-9932-f3d7184ce46c.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125473057-a70d41b9-89f5-4f98-918f-d674aa6776b5.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125473085-0ebfaaba-3687-4b29-a7a4-c4003290b915.png)![image](https://user-images.githubusercontent.com/85259801/125473120-a7cbfff9-69a4-497d-b717-63789220f08c.png)
+
 _13. Vea el circuito de la figura 7-56._
 
 _a. Encuentre las corrientes I1, I2, I3, I4, I5 e I6_
