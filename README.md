@@ -9,10 +9,14 @@ Ejercicios capítulos 7 y 8.
 
 ## 1.Objetivos
 ***Objetivo General***
-_Analizar los concepos e identificar circuitos en serie-paralelo_
+
+_Analizar los concepos e identificar circuitos en serie-paralelo con la finalidad de resolver problemas y ejercicios_
 
 ***Objetivos Específicos***
 
+_Determinar correctamente las fórmulas de la ley de ohm para resolver el problema dado_
+
+_Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodos que se encuentran en un circuito serie-paralelo_
 
 ## 2.Marco Teórico
 
