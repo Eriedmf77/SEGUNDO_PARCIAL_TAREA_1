@@ -33,8 +33,6 @@ _Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodo
 
 **Capítulo 8**
 
-![image](https://user-images.githubusercontent.com/84418933/125494701-eda01a5b-cf4d-45e0-aa8f-f6508ac138bb.png)
-
 
 ## 3. Explicación y Resolución Ejercicios
 **Capitulo 7**
@@ -199,6 +197,8 @@ _5. Para el circuito de la figura 8-68 encuentre las corrientes I1 y I2._
 
 ![image](https://user-images.githubusercontent.com/85259801/125479118-a2e6a144-770c-4894-acb1-ecd20ae353d5.png)
 
+![image](https://user-images.githubusercontent.com/85259801/125494108-ac1633c8-038e-4866-b71b-fd42bf93b3e2.png)
+
 _7. Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68._
 
 ![image](https://user-images.githubusercontent.com/84418933/125393672-fe296c00-e36d-11eb-9ef0-9af344c5ee1b.png)
@@ -216,7 +216,11 @@ _11. Vea el circuito de la figura 8-72_
 
 _a. Encuentre la corriente a través de resistor de carga con la regla del divisor de corriente._
 
+![image](https://user-images.githubusercontent.com/85259801/125494155-727c304e-36e7-42df-acd0-b1fe05161a00.png)
+
 _b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine la corriente a través de la carga._
+
+![image](https://user-images.githubusercontent.com/85259801/125494279-a13f7cbe-91bb-4bfc-aa4d-40c14fc1c417.png)
 
 
 _13. Vea el circuito de la figura 8-74:_
@@ -237,6 +241,8 @@ _17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el re
 
 ![image](https://user-images.githubusercontent.com/85259801/125479505-2db0da1e-3648-4d42-ba02-af719b8c543f.png)
 
+![image](https://user-images.githubusercontent.com/85259801/125494311-b3520d84-7444-4feb-9599-952eeef1a5b1.png)
+
 _19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes._
 
 ![image](https://user-images.githubusercontent.com/84418933/125394090-bd7e2280-e36e-11eb-950c-fe3c90bf4a10.png)
@@ -250,6 +256,9 @@ _23. Vea el circuito de la figura 8-83._
 ![image](https://user-images.githubusercontent.com/85259801/125479618-e7bcdd51-4567-4657-970e-d4cbf9e44b0c.png)
 
 _a. Escriba las ecuaciones de corriente de rama._
+
+![image](https://user-images.githubusercontent.com/85259801/125494359-95a04c43-0447-4d97-af81-4745f1d6b062.png)
+
 _b. Encuentre las corrientes I2._
 _c. Determine el voltaje Vab._
 
@@ -312,10 +321,8 @@ https://youtu.be/3zLSbegcE9I
 
 ## 5.Conclusiones
 
-_Al momento de desarrollar los ejercicios y problemas propuestos del Cap 7 y Cap 8 nos da conocer que tenemos las bases criticas para analizar e interpretar el funcionamiento de un circuito y como fluye la corriente a travez de el, sea dicho circuito tenga una o mas fuentes de voltaje que contenga una correinte equivalente o no, con el fin de aplicar los teoremas de voltaje vistos en clases y analizados en el pdf por nuestra propia critica educativa._
+
 
 ## 6.Bibliografía 
 
 _Picuino. (s. f.). Serie y paralelo - Electricidad y electrónica - Picuino. Picuino.com. Recuperado 13 de julio de 2021, de https://www.picuino.com/es/electric-serie-paralelo.html_
-
-_Métodos de análisis de circuitos. (2015, 29 julio). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/metodos-de-analisis-de-circuitos/_
