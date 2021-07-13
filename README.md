@@ -140,7 +140,25 @@ _19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8
 
 ![image](https://user-images.githubusercontent.com/84418933/125394090-bd7e2280-e36e-11eb-950c-fe3c90bf4a10.png)
 
+_25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo._
 
+![image](https://user-images.githubusercontent.com/84418933/125394184-e6061c80-e36e-11eb-87da-4d30966bdacc.png)
+
+_31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes._
+
+![image](https://user-images.githubusercontent.com/84418933/125394263-0df58000-e36f-11eb-882c-4f78f0a2b5a5.png)
+
+_37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6_
+
+![image](https://user-images.githubusercontent.com/84418933/125394321-26fe3100-e36f-11eb-94ef-d76165da8936.png)
+
+_43. Utilice las conversiones A-Yo Y-A, para encontrar la corriente I para el circuito de la figura 8-96._
+
+![image](https://user-images.githubusercontent.com/84418933/125394441-4d23d100-e36f-11eb-8d84-7ba514345477.png)
+
+_49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada resistor._
+
+![image](https://user-images.githubusercontent.com/84418933/125394496-6036a100-e36f-11eb-9e19-2032ceebdaa2.png)
 
 
 ## 4.Video
