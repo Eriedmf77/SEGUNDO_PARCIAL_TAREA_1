@@ -163,6 +163,13 @@ _49. En el circuito puente de la figura 8-102 encuentre la corriente a través d
 
 ## 4.Video
 
+**Capítulo 7**
+
+https://youtu.be/WM-ZGx6c_UA
+
+**Capítulo 8**
+
+https://youtu.be/3zLSbegcE9I
 
 
 ## 5.Conclusiones
