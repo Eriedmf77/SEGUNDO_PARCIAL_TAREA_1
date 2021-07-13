@@ -29,7 +29,11 @@ _1. Para las redes de la figura 7-46, determine cuáles resistores y ramas está
 ![image](https://user-images.githubusercontent.com/84418933/125391288-d33d1900-e369-11eb-960f-ae7095272636.png)
 ![image](https://user-images.githubusercontent.com/84418933/125391310-dcc68100-e369-11eb-9160-6062489de77a.png)
 
-_5. Las redes de resistores tienen una resistencia total que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión._
+_3. Escriba una expresion para RT1 y RT2 para las redes de la figura 7-48._
+
+![image](https://user-images.githubusercontent.com/85728185/125472911-1ee465dd-b107-443f-b5f8-9fb34ac54509.png)
+
+_5. Las redes de resistores tienen una resistencia total que se muestra a continuación. Dibuje un circuito que corresponde a cada expresión.
 
 _RT =(R1||R2||R3)+(R4||R5)_
 
@@ -42,6 +46,10 @@ _b. RT=R1+(R2||R3)+[R4||(R5+R6)]_
 _7. Determine la resistencia total para cada red de la figura 7-50._
 
 ![image](https://user-images.githubusercontent.com/84418933/125391396-10a1a680-e36a-11eb-86d6-0185615dc720.png)
+
+_9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52._
+
+![image](https://user-images.githubusercontent.com/85728185/125472980-3c09b581-4be5-4007-b794-ab55264aa276.png)
 
 _11. Vea el circuito de la figura 7-54._
 
