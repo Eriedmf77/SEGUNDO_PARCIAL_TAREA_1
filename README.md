@@ -318,7 +318,11 @@ _43. Utilice las conversiones A-Yo Y-A, para encontrar la corriente I para el ci
 
 ![image](https://user-images.githubusercontent.com/84418933/125394441-4d23d100-e36f-11eb-8d84-7ba514345477.png)
 
-**8-8 Redes puente**
+_45. Repita el problema 43 para el circuito de la figura 8-98._
+
+![image](https://user-images.githubusercontent.com/85728185/125530633-d9f9acd2-cfd2-4f95-8d47-f3d512470c08.png)
+
+** 8-8 Redes puente **
 
 _47. Vea el circuito puente de la figura 8-100._
 
