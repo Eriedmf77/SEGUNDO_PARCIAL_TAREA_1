@@ -306,6 +306,10 @@ _37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuen
 
 ![image](https://user-images.githubusercontent.com/84418933/125394321-26fe3100-e36f-11eb-94ef-d76165da8936.png)
 
+_39. Convierta cada una de las redes  de la figura 8-92 en su configuracion Y equivalente._
+
+![image](https://user-images.githubusercontent.com/85728185/125529852-87ddf67b-7911-4a67-99fd-b99227006551.png)
+
 __41. Convierta cada una de las redes Y de la figura 8-94 en su configuración (Delta) equivalente._
 
 ![image](https://user-images.githubusercontent.com/85259801/125480007-6bf5724a-8e3e-4f7b-9af8-34bdb3c75af6.png)
