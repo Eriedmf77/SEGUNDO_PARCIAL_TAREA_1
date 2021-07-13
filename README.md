@@ -184,7 +184,11 @@ _1. Encuentre el voltaje Vs para el circuito de la figura 8-64._
 
 ![image](https://user-images.githubusercontent.com/84418933/125393621-ebaf3280-e36d-11eb-895d-fdd66137237a.png)
 
-**8-1 Fuentes de corriente constante**
+_3. Vea el circuito de la figura 8-66:_
+
+![image](https://user-images.githubusercontent.com/85728185/125488835-254add70-b181-4e6f-87a6-0e819efa83f6.png)
+
+** 8-1 Fuentes de corriente constante **
 
 _5. Para el circuito de la figura 8-68 encuentre las corrientes I1 y I2._
 
