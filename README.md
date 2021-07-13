@@ -101,7 +101,7 @@ _19. En el circuito de la figura 7-62 determine el intervalo de R (valores máxi
 
 _21. En el circuito de la figura 7-64 determine VB, IC y VCE._
 
-![image](https://user-images.githubusercontent.com/85728185/125473371-43a32d6d-b4ec-4a91-a2ec-955ed898dad0.png)
+![image](https://user-images.githubusercontent.com/85728185/125475862-c24ea437-3785-4d35-b886-ec76e17b443c.png)
 
 _23. Considere el circuito de la figura 7-65 y los valores indicados._
 
