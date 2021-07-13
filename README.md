@@ -199,6 +199,12 @@ _7. Verifique que la potencia suministrada por las fuentes es igual a la suma de
 ![image](https://user-images.githubusercontent.com/84418933/125393672-fe296c00-e36d-11eb-9ef0-9af344c5ee1b.png)
 ![image](https://user-images.githubusercontent.com/84418933/125393696-097c9780-e36e-11eb-9730-02387b28ef82.png)
 
+**CONVERSIONES DE FUENTE
+
+_9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.__
+
+![image](https://user-images.githubusercontent.com/85728185/125489965-926e994a-855a-4dab-8d2b-4d81be143323.png)
+
 _11. Vea el circuito de la figura 8-72_
 
 ![image](https://user-images.githubusercontent.com/85259801/125479269-12e6199c-988f-4159-8303-5b837469eaef.png)
