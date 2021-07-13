@@ -310,7 +310,7 @@ https://youtu.be/3zLSbegcE9I
 
 ## 5.Conclusiones
 
-_Al momento de desarrollar los ejercicios y proelmas propuestos del Cap 7 y Cap 8 nos da conocer que tenemos las bases criticas para analizar e interpretar el funcionamiento de  un circuito y com fluye la correinte a travez de el, sea dicho circuito tenga una o mas funetes de voltaje que contenga una correinte equivalente o no, con el fin de aplicar los teoremas de voltaje vistos en clases y analizados en el pdf por nuestra propia critica educativa._
+_Al momento de desarrollar los ejercicios y proelmas propuestos del Cap 7 y Cap 8 nos da conocer que tenemos las bases criticas para analizar e interpretar el funcionamiento de  un circuito y com fluye la correinte a travez de el, sea dicho circuito tenga una o mas funetes de voltaje que contenga una correinte equivalente o no, con el fin de aplicar los teoremas de voltaje vistos en clases y analizados en el pdf por nuestra propia critica educativa.
 
 
 ## 6.Bibliografía 
