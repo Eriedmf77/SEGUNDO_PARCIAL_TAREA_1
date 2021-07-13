@@ -199,7 +199,7 @@ _7. Verifique que la potencia suministrada por las fuentes es igual a la suma de
 ![image](https://user-images.githubusercontent.com/84418933/125393672-fe296c00-e36d-11eb-9ef0-9af344c5ee1b.png)
 ![image](https://user-images.githubusercontent.com/84418933/125393696-097c9780-e36e-11eb-9730-02387b28ef82.png)
 
-**CONVERSIONES DE FUENTE
+**CONVERSIONES DE  FUENTE**
 
 _9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.__
 
@@ -223,6 +223,10 @@ _b. Encuentre la corriente / a través de RL_
 _c. Determine el voltaje Vab_
 
 ![image](https://user-images.githubusercontent.com/84418933/125393799-35981880-e36e-11eb-872a-4c43bc6083c1.png)
+
+_15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76._
+
+![image](https://user-images.githubusercontent.com/85728185/125490779-06f02620-a9aa-4ddb-a971-3facc09880d8.png)
 
 _17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 k ohm en una fuente de voltaje y calcule el voltaje ab y la corriente I3._
 
