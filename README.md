@@ -28,6 +28,9 @@ _Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodo
 
 ![image](https://user-images.githubusercontent.com/85259801/125486818-25ebb78d-3e27-44df-a122-6c328221680c.png)
 
+![image](https://user-images.githubusercontent.com/84418933/125493760-465a2245-798e-45c1-bead-fdac5efec247.png)
+
+
 **Capítulo 8**
 
 
@@ -311,3 +314,4 @@ https://youtu.be/3zLSbegcE9I
 
 ## 6.Bibliografía 
 
+_Picuino. (s. f.). Serie y paralelo - Electricidad y electrónica - Picuino. Picuino.com. Recuperado 13 de julio de 2021, de https://www.picuino.com/es/electric-serie-paralelo.html_
