@@ -33,6 +33,8 @@ _Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodo
 
 **Capítulo 8**
 
+![image](https://user-images.githubusercontent.com/84418933/125496146-e81d3de5-73d8-43a4-8d8e-1650a8daa2f2.png)
+
 
 ## 3. Explicación y Resolución Ejercicios
 **Capitulo 7**
@@ -326,3 +328,5 @@ https://youtu.be/3zLSbegcE9I
 ## 6.Bibliografía 
 
 _Picuino. (s. f.). Serie y paralelo - Electricidad y electrónica - Picuino. Picuino.com. Recuperado 13 de julio de 2021, de https://www.picuino.com/es/electric-serie-paralelo.html_
+
+_Métodos de análisis de circuitos. (2015, 29 julio). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/metodos-de-analisis-de-circuitos/_
