@@ -173,10 +173,25 @@ _1. Encuentre el voltaje Vs para el circuito de la figura 8-64._
 
 ![image](https://user-images.githubusercontent.com/84418933/125393621-ebaf3280-e36d-11eb-895d-fdd66137237a.png)
 
+**8-1 Fuentes de corriente constante**
+
+_5. Para el circuito de la figura 8-68 encuentre las corrientes I1 y I2._
+
+![image](https://user-images.githubusercontent.com/85259801/125479118-a2e6a144-770c-4894-acb1-ecd20ae353d5.png)
+
 _7. Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68._
 
 ![image](https://user-images.githubusercontent.com/84418933/125393672-fe296c00-e36d-11eb-9ef0-9af344c5ee1b.png)
 ![image](https://user-images.githubusercontent.com/84418933/125393696-097c9780-e36e-11eb-9730-02387b28ef82.png)
+
+_11. Vea el circuito de la figura 8-72_
+
+![image](https://user-images.githubusercontent.com/85259801/125479269-12e6199c-988f-4159-8303-5b837469eaef.png)
+
+_a. Encuentre la corriente a través de resistor de carga con la regla del divisor de corriente._
+
+_b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine la corriente a través de la carga._
+
 
 _13. Vea el circuito de la figura 8-74:_
 
@@ -188,25 +203,58 @@ _c. Determine el voltaje Vab_
 
 ![image](https://user-images.githubusercontent.com/84418933/125393799-35981880-e36e-11eb-872a-4c43bc6083c1.png)
 
+_17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 k ohm en una fuente de voltaje y calcule el voltaje ab y la corriente I3._
+
+![image](https://user-images.githubusercontent.com/85259801/125479505-2db0da1e-3648-4d42-ba02-af719b8c543f.png)
+
 _19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes._
 
 ![image](https://user-images.githubusercontent.com/84418933/125394090-bd7e2280-e36e-11eb-950c-fe3c90bf4a10.png)
+
+_23. Vea el circuito de la figura 8-83._
+
+![image](https://user-images.githubusercontent.com/85259801/125479618-e7bcdd51-4567-4657-970e-d4cbf9e44b0c.png)
+
+_a. Escriba las ecuaciones de corriente de rama._
+_b. Encuentre las corrientes I2._
+_c. Determine el voltaje Vab._
 
 _25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo._
 
 ![image](https://user-images.githubusercontent.com/84418933/125394184-e6061c80-e36e-11eb-87da-4d30966bdacc.png)
 
+_29. Use el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-84 y use sus resultados para determinar I y Vab._
+
+![image](https://user-images.githubusercontent.com/85259801/125479780-04042dc0-f92d-4e26-ad73-d217e10812f5.png)
+
 _31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes._
 
 ![image](https://user-images.githubusercontent.com/84418933/125394263-0df58000-e36f-11eb-882c-4f78f0a2b5a5.png)
+
+_35. Repita el problema 33 para el circuito 8-90._
+
+![image](https://user-images.githubusercontent.com/85259801/125479857-17da120a-1126-4ecd-a246-7f09077fef85.png)
 
 _37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6_
 
 ![image](https://user-images.githubusercontent.com/84418933/125394321-26fe3100-e36f-11eb-94ef-d76165da8936.png)
 
+__41. Convierta cada una de las redes Y de la figura 8-94 en su configuración (Delta) equivalente._
+
+![image](https://user-images.githubusercontent.com/85259801/125480007-6bf5724a-8e3e-4f7b-9af8-34bdb3c75af6.png)
+
 _43. Utilice las conversiones A-Yo Y-A, para encontrar la corriente I para el circuito de la figura 8-96._
 
 ![image](https://user-images.githubusercontent.com/84418933/125394441-4d23d100-e36f-11eb-8d84-7ba514345477.png)
+
+**8-8 Redes puente**
+
+_47. Vea el circuito puente de la figura 8-100._
+
+![image](https://user-images.githubusercontent.com/85259801/125480140-00a694e3-566d-4fcb-b29e-ce57bf9ec8db.png)
+
+_a. ¿El puente está balanceado?._
+
 
 _49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada resistor._
 
