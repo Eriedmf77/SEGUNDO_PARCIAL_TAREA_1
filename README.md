@@ -252,6 +252,10 @@ _25. Escriba las ecuaciones de malla para el circuito que se muestra en la figur
 
 ![image](https://user-images.githubusercontent.com/84418933/125394184-e6061c80-e36e-11eb-87da-4d30966bdacc.png)
 
+_27. Utilice el analisis de malla para encontrar la corriente I2 en el circuito de la figura 8-81._
+
+![image](https://user-images.githubusercontent.com/85728185/125492957-ab8bff2e-40c5-48bb-8a07-c651ab319573.png)
+
 _29. Use el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-84 y use sus resultados para determinar I y Vab._
 
 ![image](https://user-images.githubusercontent.com/85259801/125479780-04042dc0-f92d-4e26-ad73-d217e10812f5.png)
