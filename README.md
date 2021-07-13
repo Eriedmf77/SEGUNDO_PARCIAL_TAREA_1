@@ -137,7 +137,9 @@ _b. Calcule R, cuando V =20 V._
 
 _33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL = 0, 250 y 500._
 
-**EFECTOS DE CARGA DE LOS INSTRUMENTOS**
+![image](https://user-images.githubusercontent.com/85728185/125478054-983ee194-dd1a-49d0-ad4d-a2a6c6347f41.png)
+
+** EFECTOS DE CARGA DE LOS INSTRUMENTOS **
 
 _35. Un voltímetro con sensibilidad de S=20 kohm/Vse usa en la escala de 10V (con una resistencia total de 200 kohm) para medir el voltaje en el resistor de 750 k ohm de la figura 7-74. El medidor indica un voltaje 5.00 V._
 
