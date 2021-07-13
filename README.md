@@ -141,6 +141,8 @@ _29. Si el potenciómetro de la figura 7-70 se ajusta para que R2 = 200 ohm, det
 
 ![image](https://user-images.githubusercontent.com/85259801/125379115-9109dc80-e355-11eb-8411-3fe96c797244.png)
 
+![image](https://user-images.githubusercontent.com/85259801/125529775-99764915-3ecf-486e-bc31-37bdb104102a.png)
+
 **POTENCIOMETROS**
 
 _31. Vea el circuito de la figura 7-71:_
