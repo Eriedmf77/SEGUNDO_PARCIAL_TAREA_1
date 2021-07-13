@@ -117,6 +117,32 @@ _c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corr
 
 **Capitulo 8**
 
+_1. Encuentre el voltaje Vs para el circuito de la figura 8-64._
+
+![image](https://user-images.githubusercontent.com/84418933/125393621-ebaf3280-e36d-11eb-895d-fdd66137237a.png)
+
+_7. Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68._
+
+![image](https://user-images.githubusercontent.com/84418933/125393672-fe296c00-e36d-11eb-9ef0-9af344c5ee1b.png)
+![image](https://user-images.githubusercontent.com/84418933/125393696-097c9780-e36e-11eb-9730-02387b28ef82.png)
+
+_13. Vea el circuito de la figura 8-74:_
+
+_a. Convierta la fuente de corriente y el resistor de 330 1 en su fuente de voltaje equivalente._
+
+_b. Encuentre la corriente / a través de RL_
+
+_c. Determine el voltaje Vab_
+
+![image](https://user-images.githubusercontent.com/84418933/125393799-35981880-e36e-11eb-872a-4c43bc6083c1.png)
+
+_19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes._
+
+![image](https://user-images.githubusercontent.com/84418933/125394090-bd7e2280-e36e-11eb-950c-fe3c90bf4a10.png)
+
+
+
+
 ## 4.Video
 
 
