@@ -60,13 +60,32 @@ _17. Encuentre todas las corrientes y caidas de voltaje en el cicrcuito de la fi
 
 ![image](https://user-images.githubusercontent.com/85259801/125378783-f7dac600-e354-11eb-806a-91603ab2c636.png)
 
+_19. En el circuito de la figura 7-62 determine el intervalo de R (valores máximo y mínimo) que asegurarán que el voltaje de salida sea de V=5.6 V mientras que no se exceda la especificación de máxima potencia del diodo zener._
+
+![image](https://user-images.githubusercontent.com/84418933/125391927-dbe21f00-e36a-11eb-83e7-96b8d5fe9e61.png)
+
 _23. Considere el circuito de la figura 7-65 y los valores indicados._
 
 ![image](https://user-images.githubusercontent.com/85259801/125378886-25277400-e355-11eb-85ef-957b25db275a.png)
 
+_25. Calcule Ic y Vce para el circuito de la figura 7-67._
+
+![image](https://user-images.githubusercontent.com/84418933/125391986-fc11de00-e36a-11eb-84e6-34ac06e4a14a.png)
+
 _29. Si el potenciómetro de la figura 7-70 se ajusta para que R2 = 200 ohm, determine los voltajes Vab y Vbc.
 
 ![image](https://user-images.githubusercontent.com/85259801/125379115-9109dc80-e355-11eb-8411-3fe96c797244.png)
+
+**POTENCIOMETROS**
+
+_31. Vea el circuito de la figura 7-71:_
+
+_a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo._
+
+_b. Calcule R, cuando V =20 V._
+
+![image](https://user-images.githubusercontent.com/84418933/125392366-a7bb2e00-e36b-11eb-828f-882bddc8b349.png)
+
 
 **EFECTOS DE CARGA DE LOS INSTRUMENTOS**
 
@@ -82,7 +101,19 @@ _d. Si se usa el mismo voltímetro para medir el voltaje el en resistor de 200 k
 
 ![image](https://user-images.githubusercontent.com/85259801/125380160-5ef97a00-e357-11eb-8213-94e9c348ebe6.png)
 
-_41. Use Multisim para encontrar las lecturas del medidor en el circuito de la figura 7-75, si está a escala de 50 V._
+_37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76._
+
+_a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1._
+
+_b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito._
+
+_c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes._
+
+![image](https://user-images.githubusercontent.com/84418933/125392543-f36dd780-e36b-11eb-85f3-70a998966466.png)
+
+![image](https://user-images.githubusercontent.com/84418933/125392570-01235d00-e36c-11eb-93de-0e6b4d87c484.png)
+
+
 
 **Capitulo 8**
 
