@@ -24,6 +24,10 @@ Ejercicios capítulos 7 y 8.
 ## 3. Explicación y Resolución Ejercicios
 **Capitulo 7**
 
+_1. Para las redes de la figura 7-46, determine cuáles resistores y ramas están en serie y cuáles en paralelo. Escriba una expresión para la resistencia total, RT._
+![image](https://user-images.githubusercontent.com/84418933/125391288-d33d1900-e369-11eb-960f-ae7095272636.png)
+![image](https://user-images.githubusercontent.com/84418933/125391310-dcc68100-e369-11eb-9160-6062489de77a.png)
+
 _5. Las redes de resistores tienen una resistencia total que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión._
 
 
