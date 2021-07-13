@@ -5,7 +5,7 @@ Ejercicios capítulos 7 y 8.
 #### Fundamento de circuitos Eléctricos 
 ### Ing. Darwin Omar Alulema Flores
 
-#### Integrantes: Danilo Taco, Erick Maisincho, David Vasquez
+#### Integrantes: Erick Maisincho, Danilo Taco, David Vasquez
 
 ## 1.Objetivos
 ***Objetivo General***
